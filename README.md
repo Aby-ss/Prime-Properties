@@ -1,4 +1,6 @@
 # Prime-Properties
+![image](https://github.com/Aby-ss/Prime-Properties/assets/103417697/5b5ac8eb-1665-4993-9ad0-1cf130b7e7bf)
+
 💳 - Prime Properties: Unlocking Your Real Estate Success
 
 **Prime Properties will be a full-service real estate agency that specializes in buying, selling, and renting residential and commercial properties. They will provide comprehensive assistance to both sellers and buyers, guiding them through the entire process and ensuring a smooth and successful transaction.  Prime Properties is a reputable and well-established real estate agency that has been serving clients in the industry for over a decade. The agency is comprised of a team of highly skilled and experienced real estate professionals who are dedicated to providing top-notch services to their clients.**
@@ -70,3 +72,5 @@
 - **Adaptation to Market Trends: Prime Properties remains proactive in staying updated with market trends, industry regulations, and emerging technologies. They embrace innovative tools and technologies that streamline processes, enhance efficiency, and improve customer experience. By adapting to evolving market dynamics, they position themselves to capitalize on emerging opportunities and stay ahead of the competition.**
 
 **Prime Properties' commitment to these success factors, combined with their professionalism, integrity, and dedication to client satisfaction, lays a strong foundation for financial success. By leveraging their online presence, implementing effective marketing strategies, diversifying services, forming strategic partnerships, and adapting to market trends, they have the potential to make a substantial profit in the real estate industry.**
+
+![image](https://github.com/Aby-ss/Prime-Properties/assets/103417697/4c717bf5-26be-4c31-91b7-0eedf7b23580)
