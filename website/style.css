@@ -75,7 +75,7 @@ body {
   }
   
   .banner-section {
-    background-color: #954dcf;
+    background-color: #aee239ff;
     height: 200px;
     width: 350vw; /* Set the width to 100% of the viewport width */
     margin-top: -100px; /* Adjust the negative margin to increase the top size */
@@ -85,7 +85,7 @@ body {
   }
   
   .small-banner-section {
-    background-color: #525252;
+    background-color: #40c0cbff;
     height: 100px;
     width: 350vw; /* Set the width to 100% of the viewport width */
     margin-top: 250px; /* Adjust the negative margin to increase the top size */
@@ -96,8 +96,8 @@ body {
   }
   
   .title-banner-section {
-    background-color: #525252;
-    height: 100px;
+    background-color: #92c028;
+    height: 250px;
     width: 350vw; /* Set the width to 100% of the viewport width */
     margin-top: 10px; /* Adjust the negative margin to increase the top size */
     margin-bottom: 20px;
@@ -107,8 +107,8 @@ body {
   }
   
   
-  .purple-banner-section {
-    background-color: #954dcf;
+  .light-green-banner-section {
+    background-color: #aee239ff;
     height: 150px;
     width: 350vw; /* Set the width to 100% of the viewport width */
     margin-top: 20px; /* Adjust the negative margin to increase the top size */
@@ -120,7 +120,7 @@ body {
   }
   
   .FAQ-section{
-    background-color: #954dcf;
+    background-color: #aee239ff;
     border-radius: 10px;
     padding: 20px;
     text-align: center;
@@ -142,7 +142,7 @@ body {
   }
   
   .box_ {
-    background-color: #954dcf;
+    background-color: #8fbe00ff;
     width: 100%; /* Adjust the width as needed */
     padding: 20px;
     border-radius: 10px; /* Add border-radius to create rounded corners */
@@ -182,11 +182,11 @@ body {
     margin: 0;
     margin-top: 100px;
     margin-bottom: 250px;
-    background-color: #954dcf;
+    background-color: #8fbe00ff;
   }
   
   .custom-section {
-    background-color: #954dcf;
+    background-color: #8fbe00ff;
     border-radius: 10px;
     padding: 20px;
     max-width: 100%;
@@ -234,7 +234,7 @@ body {
   .contact-us {
     font-size: 45px;
     margin-left: 1050px;
-    background-color: #a661df;
+    background-color: #8fbe00ff;
     max-width: 50%;
     border-radius: 50px;
   }
@@ -247,7 +247,7 @@ body {
   
     margin-top: 300px;
     margin-bottom: 450px;
-    background-color: #954dcf;
+    background-color: #8fbe00ff;
     border-radius: 25px;
   }
   
