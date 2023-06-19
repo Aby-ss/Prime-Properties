@@ -366,6 +366,28 @@ a {
   text-decoration: none;
 }
 
+.box_2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #3a3a3a;
+  border-radius: 45px;
+  padding: 20px;
+  width: 1750px;
+  height: 350px;
+  margin: 0 auto; /* Center the box horizontally within its parent element */
+}
+
+.bo_2x p {
+  text-align: right; /* Align the paragraph to the right */
+  margin-left: 50px; /* Space for the image on the left */
+}
+
+.box_2 img {
+  max-width: 100%;
+  height: auto;
+  margin-right: 20px; /* Space for the paragraph on the right */
+}
 /* ---------------------------------------------- Animation Area -------------------------------------------------- */
 
 .fade-in-section {
