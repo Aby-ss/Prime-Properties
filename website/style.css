@@ -376,6 +376,7 @@ a {
   width: 1750px;
   height: 350px;
   margin: 0 auto; /* Center the box horizontally within its parent element */
+  margin-bottom: 150px;
 }
 
 .bo_2x p {
