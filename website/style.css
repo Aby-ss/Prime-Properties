@@ -387,6 +387,8 @@ a {
   max-width: 100%;
   height: auto;
   margin-right: 20px; /* Space for the paragraph on the right */
+  height: 500px;
+  width: 500px;
 }
 /* ---------------------------------------------- Animation Area -------------------------------------------------- */
 
