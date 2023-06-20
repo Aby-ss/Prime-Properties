@@ -75,10 +75,10 @@ section {
 }
 
 .banner-section {
-  background-color: #a6dc29;
+  background-color: #363636;
   height: 200px;
   width: 350vw; /* Set the width to 100% of the viewport width */
-  margin-top: -100px; /* Adjust the negative margin to increase the top size */
+  margin-top: 50px; /* Adjust the negative margin to increase the top size */
   display: flex; /* Enable flexbox layout */
   align-items: center; /* Center the content vertically */
   justify-content: center; /* Center the content horizontally */
@@ -253,7 +253,7 @@ section {
 }
 
 .spacer {
-  aspect-ratio: 960/1000;
+  aspect-ratio: 960/390;
   width: 100%;
   background-repeat: no-repeat;
   background-position: center;
@@ -261,10 +261,10 @@ section {
 }
 
 .layer1 {
-  background-image: url('./layered-waves-side.svg');
+  background-image: url('./layered-peaks-top.svg');
 }
 .layer2 {
-  background-image: url('./layered-waves-side.svg');
+  background-image: url('./layered-peaks-top.svg');
 }
 
 .flip {
