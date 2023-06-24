@@ -33,4 +33,32 @@
 <body>
     <h1 style="font-size: 200px; text-align: left; margin-top: 150px;  margin-left: 250px;">Prime</h1>
     <h1 style="font-size: 200px; text-align: left; margin-left: 250px; margin-top: -65px;">Properties</h1>
+
+    <div id="canvas"></div>
+
+    <script src="https://cdn.jsdelivr.net/npm/babylonjs@4.2.0/babylon.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/babylonjs-loaders@4.2.0/babylonjs.loaders.min.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            // Create a Babylon.js engine and canvas
+            var canvas = document.getElementById("canvas");
+            var engine = new BABYLON.Engine(canvas, true);
+
+            // Create a scene
+            var scene = new BABYLON.Scene(engine);
+
+            // Load the 3D model
+            BABYLON.SceneLoader.ImportMesh("", "Designs/Blender Models/Intro-Logo.blend", "", scene, function (meshes) {
+                // Set up camera and lighting
+                var camera = new BABYLON.ArcRotateCamera("camera", -Math.PI / 2, Math.PI / 4, 4, BABYLON.Vector3.Zero(), scene);
+                camera.attachControl(canvas, true);
+                var light = new BABYLON.HemisphericLight("light", new BABYLON.Vector3(0, 1, 0), scene);
+
+                // Render the scene
+                engine.runRenderLoop(function () {
+                    scene.render();
+                });
+            });
+        });
+    </script>
 </body>

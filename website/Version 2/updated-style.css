@@ -45,6 +45,11 @@ body {
     height: 85%;
     margin-bottom: 250px;
   }
+
+  #canvas {
+    width: 100%;
+    height: 100%;
+}
   
   section {
       position: relative;
