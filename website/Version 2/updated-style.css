@@ -15,11 +15,13 @@ body {
     max-width: 800px; /* Limit the maximum width of the heading */
     margin: 0 auto; /* Center the heading horizontally */
     max-width: 100%;
+    font-family: 'Belanosima', sans-serif;
   }
   
   h3 {
     align-self: center;
     text-align: center;
+    font-family: 'Belanosima', sans-serif;
   }
   
   p {
