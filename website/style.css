@@ -5,7 +5,7 @@ body {
   margin: 0;
   font-family: 'Prompt', sans-serif;
   color: white;
-  background: #292929;
+  background: rgb(177, 177, 177);
   overflow-x: hidden;
 }
     
@@ -80,7 +80,7 @@ section {
 }
 
 .banner-section {
-  background-color: #363636;
+  background-color: rgb(71, 68, 72);
   height: 200px;
   width: 350vw; /* Set the width to 100% of the viewport width */
   margin-top: 50px; /* Adjust the negative margin to increase the top size */
@@ -148,7 +148,7 @@ section {
 }
 
 .box_ {
-  background-color: #8fbe00ff;
+  background-color: rgb(227, 227, 227);
   width: 100%; /* Adjust the width as needed */
   padding: 20px;
   border-radius: 10px; /* Add border-radius to create rounded corners */
