@@ -187,7 +187,7 @@ body {
     width: 150px; /* Adjust the width of the second image as desired */
   }
   
-  .container {
+  .container_ {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -195,7 +195,7 @@ body {
     margin: 0;
     margin-top: 100px;
     margin-bottom: 250px;
-    background-color: #8fbe00ff;
+    background-color: rgb(97, 97, 97);
   }
   
   .custom-section {
@@ -402,6 +402,29 @@ body {
     margin-right: 20px; /* Space for the paragraph on the right */
     height: 500px;
     width: 500px;
+  }
+
+  .services-container {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .services-box {
+    width: 650px;
+    height: 800px;
+    background-color: rgb(71, 68, 72);
+    border-radius: 25px;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-right: 10px; /* Adjust the margin-right value as per your preference */
+  }
+
+  .services-box img {
+    width: 100%;
+    height: auto;
+    border-radius: 25px;
   }
   /* ---------------------------------------------- Animation Area -------------------------------------------------- */
   
