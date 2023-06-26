@@ -412,7 +412,7 @@ body {
   .services-box {
     width: 650px;
     height: 850px;
-    background-color: #FFFFFF;
+    background-color: #D2D2D2;
     border-radius: 25px;
     padding: 20px;
     color: white;
@@ -426,6 +426,49 @@ body {
     height: auto;
     border-radius: 25px;
   }
+
+  .navigation-header {
+    position: relative;
+    text-align: left;
+    margin-top: 25px;
+    margin-left: 250px;
+    background-color: #D2D2D2;
+    width: 1550px;
+    height: 150px;
+    border-radius: 25px;
+    margin-left: 500px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .left-color {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 20%;
+    background-color: rgb(255, 102, 0);
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+  }
+  
+  .nav-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin-left: 35%; /* Adjust the left margin to match the width of the left color */
+  }
+  
+  .nav-links a {
+    text-decoration: none;
+    color: black;
+    padding: 10px 15px;
+    font-size: 25px;
+    margin-right: 10px;
+  }
+
+
   /* ---------------------------------------------- Animation Area -------------------------------------------------- */
   
   .fade-in-section {
