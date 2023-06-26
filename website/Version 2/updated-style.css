@@ -457,7 +457,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100%;
-    margin-left: 35%; /* Adjust the left margin to match the width of the left color */
+    margin-left: 50%; /* Adjust the left margin to match the width of the left color */
   }
   
   .nav-links a {
