@@ -451,6 +451,17 @@ body {
     border-top-left-radius: 25px;
     border-bottom-left-radius: 25px;
   }
+
+  .left-color h2 {
+    color: white;
+    text-align: center; /* Center the text */
+    padding: 10px;
+    margin: 0;
+    display: flex; /* Add flexbox display */
+    justify-content: center; /* Center the content horizontally */
+    align-items: center; /* Center the content vertically */
+    height: 100%; /* Ensure the heading takes up full height */
+  }
   
   .nav-links {
     display: flex;
