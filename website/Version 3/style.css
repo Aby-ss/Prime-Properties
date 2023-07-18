@@ -37,6 +37,7 @@ section {
   align-items: center;
   min-height: 450px;
   padding-top: 100px;
+  margin-top: 250px;
 }
 
 .about-us-box {
@@ -80,4 +81,45 @@ section {
   margin-top: -250px;
   margin-left: -1030px;
 }
-  
+
+.services-box {
+  width: 1200px;
+  height: 1000px;
+  flex-shrink: 0;
+  border-radius: 16px;
+  background: #1A222B;
+  margin-right: 1100px;
+}
+
+.services-box img {
+  width: 1600px;
+  height: 1000px;
+  flex-shrink: 0;
+  margin-right: -500px;
+  margin-top: 40px;
+}
+
+.services-box li {
+  width: 800px;
+  color: #000;
+  font-family: Koulen;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150.664%; /* 33.146px */
+  letter-spacing: -0.99px;
+  margin-left: 1450px;
+}
+
+.services-box h1 {
+  width: 650px;
+  color: #000;
+  font-family: Koulen;
+  font-size: 80px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: -2.56px;
+  margin-top: -950px;
+  margin-left: 1400px;
+}
