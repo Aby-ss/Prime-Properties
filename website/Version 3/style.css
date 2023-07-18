@@ -29,4 +29,22 @@ p {
   max-width: 1200px; /* Limit the maximum width of the paragraphs */
   margin: 0 auto; /* Center the paragraphs horizontally */
 }
+
+.about-us-box {
+    width: 730px;
+    height: 696px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    background: #1A222B;
+}
+
+.about-us-box p {
+    color: #FFF;
+    font-family: Koulen;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160.664%; /* 38.559px */
+    letter-spacing: -0.24px;
+}
   
