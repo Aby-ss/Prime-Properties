@@ -141,3 +141,14 @@ section {
   margin-left: 720px;
   margin-top: 350px;
 }
+
+.services-info-box h2 {
+  width: 650px;
+  color: #FFF;
+  font-family: Koulen;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: -1px;
+  letter-spacing: -2.56px;
+}
