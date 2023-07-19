@@ -132,3 +132,12 @@ section {
   background: #1A222B;
   color: #FFF;
 }
+
+.services-info-box img {
+  width: 750px;
+  height: 550px;
+  flex-shrink: 0;
+  margin-right: auto;
+  margin-left: 720px;
+  margin-top: 350px;
+}
