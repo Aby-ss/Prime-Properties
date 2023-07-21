@@ -198,12 +198,11 @@ section {
   font-size: 75px;
 }
 
-/* Styles for the plan-section container */
 .plan-section {
   display: flex;
-  justify-content: space-between;
-  margin-top: 20px;
-  margin-left: 100px;
+  justify-content: center; /* Center the boxes horizontally */
+  gap: 45px; /* Reduce the space between the boxes to 20px */
+  margin: 20px 0;
 }
 
 /* Styles for each plan box */
