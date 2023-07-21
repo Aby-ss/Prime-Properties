@@ -171,12 +171,12 @@ section {
 
 .services-boxes {
   display: flex;
-  width: 450px; /* Set the desired width for the container */
-  margin-left: 850px;
+  width: 550px; /* Set the desired width for the container */
+  margin-left: 800px;
 }
 
 .services-boxes img {
-  height: 450px;
+  height: 550px;
   width: 100%; /* Each image will take up 100% of the container's width */
   margin-right: 10px;
 }
