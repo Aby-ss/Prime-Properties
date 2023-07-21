@@ -198,6 +198,41 @@ section {
   font-size: 75px;
 }
 
+/* Styles for the plan-section container */
 .plan-section {
-  
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 0;
+}
+
+/* Styles for each plan box */
+.plan {
+  flex: 1;
+  max-width: 300px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Styles for plan titles */
+.plan h3 {
+  color: #333;
+  margin-bottom: 10px;
+}
+
+/* Styles for plan features list */
+.plan ul {
+  list-style: none;
+  padding: 0;
+}
+
+/* Styles for plan features list items */
+.plan li {
+  margin-bottom: 5px;
+}
+
+/* Add some hover effect for the plan boxes */
+.plan:hover {
+  background-color: #f9f9f9;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
 }
