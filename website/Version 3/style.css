@@ -185,3 +185,15 @@ section {
 .services-boxes img:last-child {
   margin-right: 0;
 }
+
+.banner-section {
+  background-color: #8715EA;
+  height: 200px;
+  width: 2500px; /* Set the width to 100% of the viewport width */
+  margin-top: 450px; /* Adjust the negative margin to increase the top size */
+  display: flex; /* Enable flexbox layout */
+  align-items: center; /* Center the content vertically */
+  justify-content: center; /* Center the content horizontally */
+  color: #FFF;
+  font-size: 75px;
+}
