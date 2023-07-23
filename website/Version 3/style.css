@@ -213,6 +213,7 @@ section {
   padding: 10px;
   border: 1px solid #ccc;
   border-radius: 16px;
+  text-align: left;
 }
 
 /* Styles for plan titles */
@@ -233,6 +234,7 @@ section {
 .plan li {
   margin-bottom: 5px;
   font-size: 25px;
+  color:#FFF;
 }
 
 /* Add some hover effect for the plan boxes */
