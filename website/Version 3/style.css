@@ -211,9 +211,10 @@ section {
   max-width: 550px;
   height: 750px;
   padding: 10px;
-  border: 1px solid #ccc;
-  border-radius: 16px;
+  border: 5px solid #45505c;
+  border-radius: 12px;
   text-align: left;
+  background-color: #323B45;
 }
 
 /* Styles for plan titles */
